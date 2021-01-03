@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Test Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Fhead-the-dummy-avatar-man-tie-659652%2F&psig=AOvVaw35yJyPwGyYOFzlZCOrLGI5&ust=1609762132039000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjB6LLd_-0CFQAAAAAdAAAAABAD)
